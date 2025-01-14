@@ -16,7 +16,7 @@
 .p1{
     fill:#ffffff00;
     stroke:#f0ee37;
-    stroke-width:1;
+    stroke-width:0.6pc;
     stroke-linecap:round;
     stroke-linejoin:round;
     paint-order:stroke fill;
@@ -27,7 +27,7 @@
 .p2{
     fill:#ffffff00;
     stroke:#2675e9;
-    stroke: width 1px;
+    stroke: width 0.5px;
     stroke-linecap:round;
     stroke-linejoin:round;
     paint-order:stroke fill;
